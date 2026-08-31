@@ -1,0 +1,20 @@
+{
+  "remoteUrl": "https://github.com/HaileyVisser/Story",
+  "branch": "main",
+  "authorName": "HaileyVisser",
+  "authorEmail": "visseremma49@gmail.com",
+  "username": "HaileyVisser",
+  "token": "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",
+  "commitMessage": "vault sync {{date}}",
+  "autoSyncEnabled": false,
+  "autoSyncInterval": 10,
+  "syncOnStartup": false,
+  "lastSyncAt": 1788199254611,
+  "excludePaths": "",
+  "language": "auto",
+  "syncEngine": "auto",
+  "apiBaseline": {
+    "commitSha": null,
+    "shas": {}
+  }
+}
