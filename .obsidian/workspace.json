@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5ae0f1b48fed56d",
+            "id": "632e4595914d5f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Folie"
             }
-          },
-          {
-            "id": "632e4595914d5f3f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Folie.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Folie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Folie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,12 +194,12 @@
   },
   "active": "632e4595914d5f3f",
   "lastOpenFiles": [
+    "Kyra Raenor.md",
     "Characters.md",
     "Folie.md",
+    "Rigil Acrux.md",
     "Pantheon of Gods.md",
     "README.md",
-    "Rigil Acrux.md",
-    "Kyra Raenor.md",
     "Rigil.md",
     "08-31-2026.md"
   ]

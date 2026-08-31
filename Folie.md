@@ -1,6 +1,11 @@
+---
+tags:
+  - LesserGod
+  - Characters
+---
 Daughter of Earth and Life
 
-Folie (pronounced fall-ee) (her name does just mean "Madness" in French but whatever it's not pronounced the same
+Folie (pronounced foal-ee) (her name does just mean "Madness" in French but whatever it's not pronounced the same
 
 Goddess of agriculture
 
