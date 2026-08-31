@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65f3bc18688b3d84",
+        "id": "6ae312dab4109889",
         "type": "tabs",
         "children": [
           {
+<<<<<<< main
             "id": "f29bdda549dfb50b",
+=======
+            "id": "556c7a770f931ba4",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,7 +195,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
+<<<<<<< main
   "active": "f29bdda549dfb50b",
+=======
+  "active": "556c7a770f931ba4",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "Folie.md",
     "Kyra Raenor.md",
