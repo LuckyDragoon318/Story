@@ -1,0 +1,10 @@
+{
+  "id": "creative-thesaurus",
+  "name": "Creative Thesaurus",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Type /thesaurus::word while writing and pick a synonym, alternative or antonym from a floating box. Datamuse and/or a local model; every lookup kept in a history pane.",
+  "author": "André Amnc",
+  "isDesktopOnly": true,
+  "authorUrl": "https://github.com/amancioandre"
+}
