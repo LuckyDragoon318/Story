@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476054a932575018",
+            "id": "c5ae0f1b48fed56d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Folie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Folie"
+            }
+          },
+          {
+            "id": "632e4595914d5f3f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,13 +110,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -155,7 +170,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,12 +178,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +192,6 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "random-note:Open random note": false,
       "hearth:Open Hearth home": false,
@@ -187,9 +200,15 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "0415a16c7f414c0f",
+  "active": "632e4595914d5f3f",
   "lastOpenFiles": [
+    "Characters.md",
+    "Folie.md",
+    "Pantheon of Gods.md",
     "README.md",
-    "Untitled.md"
+    "Rigil Acrux.md",
+    "Kyra Raenor.md",
+    "Rigil.md",
+    "08-31-2026.md"
   ]
 }
