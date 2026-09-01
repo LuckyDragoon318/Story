@@ -1,1 +1,0 @@
-There are 7 continents and a large island chain in the world, 

@@ -8,40 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "556c7a770f931ba4",
+            "id": "c6e10242ef17e25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Folie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Folie"
-            }
-          },
-          {
-            "id": "911790a57b078fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The world"
-            }
-          },
-          {
-            "id": "7b6c6e207af5b7cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The world.md",
+                "file": "World/The world.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +21,7 @@
               "title": "The world"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The world.md",
+                "file": "World/The world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -220,13 +191,24 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7b6c6e207af5b7cd",
+  "active": "c6e10242ef17e25f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "The world.md",
-    "Folie.md",
-    "Kyra Raenor.md",
+    "World/Continent 6.md",
+    "World/Continent 1.md",
+    "World/The world.md",
+    "World/Capital.md",
+    "World/Island Chain.md",
+    "World/Continent 7.md",
+    "World/Continent 5.md",
     "Characters.md",
+    "World/Continent 2.md",
+    "Untitled.md",
+    "World/Continent 3.md",
+    "Folie.md",
+    "World/Continent 4.md",
+    "Untitled",
+    "World",
+    "Kyra Raenor.md",
     "Rigil Acrux.md",
     "Pantheon of Gods.md",
     "README.md",
