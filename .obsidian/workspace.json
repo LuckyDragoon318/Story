@@ -1,28 +1,20 @@
 {
   "main": {
-    "id": "c5dc1dbfa0fa7ff5",
+    "id": "e56078d8110caff3",
     "type": "split",
     "children": [
       {
-        "id": "6ae312dab4109889",
+        "id": "a7ab2b5a580cc422",
         "type": "tabs",
         "children": [
           {
-<<<<<<< main
-            "id": "f29bdda549dfb50b",
-=======
-            "id": "556c7a770f931ba4",
->>>>>>> origin/main
+            "id": "a73ec7ee73b790d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Folie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Folie"
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
             }
           }
         ]
@@ -31,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35fbef88c0342b80",
+    "id": "59124cf96499bc1b",
     "type": "split",
     "children": [
       {
-        "id": "cfb79aca52ac10b0",
+        "id": "e1d036585ae83c48",
         "type": "tabs",
         "children": [
           {
-            "id": "0415a16c7f414c0f",
+            "id": "751ae37c00b7c09a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +46,7 @@
             }
           },
           {
-            "id": "612054ff3de32e5a",
+            "id": "75a5120a239a7dc6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +63,7 @@
             }
           },
           {
-            "id": "338b54fb33b708d6",
+            "id": "54eac494098fed92",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,39 +82,37 @@
     "width": 300
   },
   "right": {
-    "id": "321861599c8faba4",
+    "id": "f9c33ee0e18dd80d",
     "type": "split",
     "children": [
       {
-        "id": "1f15b3393aeef860",
+        "id": "6af08aea38f716d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8d816029f67323",
+            "id": "8cdfde3c6947289f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Folie.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
           },
           {
-            "id": "dc935bf0054c84ef",
+            "id": "6bcf90061dd4b1bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Folie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -131,7 +121,7 @@
             }
           },
           {
-            "id": "762010dede82f54d",
+            "id": "b01f319926fb3db6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,7 +136,7 @@
             }
           },
           {
-            "id": "75e9391bea6311ca",
+            "id": "f8144cc01a58d5c6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -160,12 +150,11 @@
             }
           },
           {
-            "id": "227ada477a46f2e2",
+            "id": "c0de2dfd6b2503ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Folie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,12 +163,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,27 +176,14 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "bases:Create new base": false,
       "random-note:Open random note": false,
+      "bases:Create new base": false,
       "hearth:Open Hearth home": false,
       "creative-thesaurus:Open thesaurus history": false,
       "git-vault-sync:Git Vault Sync: Sync vault": false,
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-<<<<<<< main
-  "active": "f29bdda549dfb50b",
-=======
-  "active": "556c7a770f931ba4",
->>>>>>> origin/main
-  "lastOpenFiles": [
-    "Folie.md",
-    "Kyra Raenor.md",
-    "Characters.md",
-    "Rigil Acrux.md",
-    "Pantheon of Gods.md",
-    "README.md",
-    "Rigil.md",
-    "08-31-2026.md"
-  ]
+  "active": "a73ec7ee73b790d2",
+  "lastOpenFiles": []
 }
