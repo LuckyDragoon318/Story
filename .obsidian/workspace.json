@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "e56078d8110caff3",
+    "id": "c5dc1dbfa0fa7ff5",
     "type": "split",
     "children": [
       {
-        "id": "a7ab2b5a580cc422",
+        "id": "8e76d1bc6f5d2ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "a73ec7ee73b790d2",
+            "id": "d6ffc6781ad9ed9e",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Gods/Pantheon of Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pantheon of Gods"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "59124cf96499bc1b",
+    "id": "35fbef88c0342b80",
     "type": "split",
     "children": [
       {
-        "id": "e1d036585ae83c48",
+        "id": "cfb79aca52ac10b0",
         "type": "tabs",
         "children": [
           {
-            "id": "751ae37c00b7c09a",
+            "id": "0415a16c7f414c0f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "75a5120a239a7dc6",
+            "id": "612054ff3de32e5a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "54eac494098fed92",
+            "id": "338b54fb33b708d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,37 +86,39 @@
     "width": 300
   },
   "right": {
-    "id": "f9c33ee0e18dd80d",
+    "id": "321861599c8faba4",
     "type": "split",
     "children": [
       {
-        "id": "6af08aea38f716d3",
+        "id": "1f15b3393aeef860",
         "type": "tabs",
         "children": [
           {
-            "id": "8cdfde3c6947289f",
+            "id": "7a8d816029f67323",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Folie.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
           },
           {
-            "id": "6bcf90061dd4b1bd",
+            "id": "dc935bf0054c84ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Gods/Pantheon of Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,22 +127,7 @@
             }
           },
           {
-            "id": "b01f319926fb3db6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f8144cc01a58d5c6",
+            "id": "75e9391bea6311ca",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +141,12 @@
             }
           },
           {
-            "id": "c0de2dfd6b2503ca",
+            "id": "227ada477a46f2e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Folie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,13 +154,28 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "d0df8ecd9f9a431e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,14 +183,37 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "random-note:Open random note": false,
       "bases:Create new base": false,
+      "random-note:Open random note": false,
       "hearth:Open Hearth home": false,
       "creative-thesaurus:Open thesaurus history": false,
       "git-vault-sync:Git Vault Sync: Sync vault": false,
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "a73ec7ee73b790d2",
-  "lastOpenFiles": []
+  "active": "d6ffc6781ad9ed9e",
+  "lastOpenFiles": [
+    "World/Capital.md",
+    "World/Continent 1.md",
+    "World/Continent 4.md",
+    "World/Continent 5.md",
+    "World/Continent 6.md",
+    "World/Continent 7.md",
+    "World/Island Chain.md",
+    "World/The world.md",
+    "README.md",
+    "Characters/Gods/Folie.md",
+    "Characters/Gods/Pantheon of Gods.md",
+    "Characters/Rigil Acrux.md",
+    "Characters/Gods",
+    "Characters",
+    "Characters/Characters.md",
+    "World/Continent 2.md",
+    "Untitled.md",
+    "World/Continent 3.md",
+    "World",
+    "Characters/Kyra Raenor.md",
+    "Rigil.md",
+    "08-31-2026.md"
+  ]
 }
