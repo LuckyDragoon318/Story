@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e76d1bc6f5d2ce0",
+        "id": "fba1d3b8c67a2c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ffc6781ad9ed9e",
+            "id": "47f5f3ba666accd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gods/Pantheon of Gods.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pantheon of Gods"
+              "title": "README"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gods/Pantheon of Gods.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -185,14 +185,14 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "random-note:Open random note": false,
-      "hearth:Open Hearth home": false,
       "creative-thesaurus:Open thesaurus history": false,
       "git-vault-sync:Git Vault Sync: Sync vault": false,
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "d6ffc6781ad9ed9e",
+  "active": "47f5f3ba666accd8",
   "lastOpenFiles": [
+    "Characters/Gods/Pantheon of Gods.md",
     "World/Capital.md",
     "World/Continent 1.md",
     "World/Continent 4.md",
@@ -203,7 +203,6 @@
     "World/The world.md",
     "README.md",
     "Characters/Gods/Folie.md",
-    "Characters/Gods/Pantheon of Gods.md",
     "Characters/Rigil Acrux.md",
     "Characters/Gods",
     "Characters",

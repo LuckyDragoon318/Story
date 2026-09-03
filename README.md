@@ -1,2 +1,2 @@
 # Story
-I like writing about fantasy stuff
+When open in Obsidian this will act as a top Directory to other locations
