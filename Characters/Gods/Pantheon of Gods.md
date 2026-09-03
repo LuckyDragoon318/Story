@@ -16,7 +16,7 @@ Dark -
 
 Lesser gods -children of Core Gods, more specific domains, domain gained from parent gods
 
-Agriculture - [[Folie]]
+Agriculture - [[Characters/Folie]]
 Weather - 
 Love - 
 Hate - 
