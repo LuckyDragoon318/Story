@@ -1,3 +1,9 @@
+---
+aliases:
+  - Gods
+tags:
+  - Directory
+---
 Many gods exist in this world, and they exist for many things
 
 Core Gods - the oldest and most powerful gods, with the broadest domains
@@ -16,7 +22,7 @@ Dark -
 
 Lesser gods -children of Core Gods, more specific domains, domain gained from parent gods
 
-Agriculture - [[Characters/Folie]]
+Agriculture - [[Folie 1]]
 Weather - 
 Love - 
 Hate - 
