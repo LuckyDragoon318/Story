@@ -2,4 +2,4 @@
 tags:
   - Directory
 ---
-[[Kyra Raenor]] - Main character
+[[Kyra Raenor]] 

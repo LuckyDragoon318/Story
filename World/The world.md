@@ -1,3 +1,7 @@
+---
+tags:
+  - Directory
+---
 Natural geography
 	There are 7 continents and a large island chain in the world that form an almost clock like shape (was an accident but not anymore!). 
 The world has tectonic plates, but their 
