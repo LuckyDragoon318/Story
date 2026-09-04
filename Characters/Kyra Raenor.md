@@ -1,8 +1,6 @@
 ---
 tags:
   - Characters
-  - Warlock
-  - Cleric
 ---
 Kyra is a Reborn Cleric/Warlock
 

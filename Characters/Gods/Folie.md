@@ -2,6 +2,7 @@
 tags:
   - LesserGod
   - Characters
+  - Deity
 ---
 Daughter of Earth and Life
 
