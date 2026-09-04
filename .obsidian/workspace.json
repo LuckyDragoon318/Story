@@ -11,10 +11,14 @@
             "id": "47f5f3ba666accd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "World/Capital.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capital"
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/Capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,22 +192,23 @@
   },
   "active": "47f5f3ba666accd8",
   "lastOpenFiles": [
-    "Characters/Kyra Raenor.md",
-    "Characters/Gods/Folie.md",
-    "Characters/Gods/Pantheon of Gods.md",
-    "README.md",
-    "World/The world.md",
-    "Characters/Mortals.md",
-    "Characters/Pantheon of Gods.md",
-    "Characters/Rigil Acrux.md",
-    "World/Capital.md",
-    "Characters/Kyra Raenor 1.md",
+    "World/Continent 5.md",
+    "World/Continent 6.md",
     "World/Continent 1.md",
+    "World/Capital.md",
+    "Characters/Pantheon of Gods.md",
+    "Characters/Mortals.md",
+    "Characters/Gods/Pantheon of Gods.md",
+    "Characters/Kyra Raenor.md",
+    "World/Geography.md",
+    "World/The world.md",
+    "README.md",
+    "Characters/Gods/Folie.md",
+    "Characters/Rigil Acrux.md",
+    "Characters/Kyra Raenor 1.md",
     "Characters/Rigil Acrux 1.md",
     "Characters/Gods/Folie 1.md",
     "World/Continent 4.md",
-    "World/Continent 5.md",
-    "World/Continent 6.md",
     "World/Continent 7.md",
     "World/Island Chain.md",
     "Characters/Gods",
