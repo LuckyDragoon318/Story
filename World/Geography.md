@@ -1,0 +1,1 @@
+There are 7 continents and a large island chain in the world that form an almost clock like shape

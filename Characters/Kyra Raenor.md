@@ -1,6 +1,8 @@
 ---
 tags:
   - Characters
+aliases:
+  - Kyra
 ---
 Kyra is a Reborn Cleric/Warlock
 
