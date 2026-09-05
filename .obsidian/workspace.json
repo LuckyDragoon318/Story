@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "World/Continent 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "3d4f22b23b2b6d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Seastone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seastone"
+              "title": "Continent 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,26 +190,26 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "3d4f22b23b2b6d2c",
+  "active": "a73ec7ee73b790d2",
   "lastOpenFiles": [
-    "Materials/Materials.md",
+    "World/Continent 2.md",
+    "World/Capital.md",
+    "World/Continent 1.md",
+    "World/Continent 7.md",
     "README.md",
-    "Materials",
     "Materials/Seastone.md",
+    "Materials/Materials.md",
+    "Materials",
     "Misc. Notes",
     "World/The world.md",
     "Characters/Kyra Raenor.md",
-    "World/Capital.md",
     "Characters/Mortals.md",
     "Characters/Rigil Acrux.md",
     "Characters/Pantheon of Gods.md",
-    "World/Continent 1.md",
     "World/Continent 3.md",
-    "World/Continent 2.md",
     "World/Continent 4.md",
     "World/Continent 5.md",
     "World/Continent 6.md",
-    "World/Continent 7.md",
     "World/Island Chain.md",
     "Characters.md",
     "Characters/Gods/Pantheon of Gods.md",
