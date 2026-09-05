@@ -9,3 +9,4 @@ There are 5 countries (alternate name coming) that are the primary ruling body o
 The [[Capital]] - A circular city that rests in the center of the continent, where the 5 borders would meet
 
 ## Geography
+Being the largest continent, the geography is extremely varied. there is a coastal mountain range in the North-West edge
