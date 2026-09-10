@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seastone Weapons.md",
+                "file": "World/Great Volcano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seastone Weapons"
+              "title": "Great Volcano"
+            }
+          },
+          {
+            "id": "8dbac867b9f7c1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Volcanic Hotspot (Wikipedia).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volcanic Hotspot (Wikipedia)"
+            }
+          },
+          {
+            "id": "7bf93567a14af62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Great Volcano.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Volcano"
+            }
+          },
+          {
+            "id": "358e9cb95d953c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Volcanic Hotspot (Wikipedia).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volcanic Hotspot (Wikipedia)"
+            }
+          },
+          {
+            "id": "604166bd5115dca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Saline Water.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saline Water"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,23 +247,31 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "a73ec7ee73b790d2",
+  "active": "751ae37c00b7c09a",
   "lastOpenFiles": [
-    "World/Continent 1.md",
+    "Research/Volcanic Hotspot (Wikipedia).md",
+    "Research/Saline Water.md",
+    "Research/Pillow Lava.md",
+    "Research/River Bifurcation.md",
+    "World/Great Volcano.md",
+    "Materials/Materials.md",
+    "Characters/Kyra Raenor.md",
+    "World/The world.md",
+    "Research",
+    "World/Continents",
     "Seastone Weapons.md",
+    "World/Continents/Continent 1.md",
     "World/Geography.md",
     "Materials/Seastone.md",
-    "Materials/Materials.md",
     "Materials",
-    "World/Continent 3.md",
-    "World/Continent 2.md",
-    "World/Continent 4.md",
-    "World/Continent 5.md",
-    "World/Continent 6.md",
-    "World/Continent 7.md",
-    "World/Island Chain.md",
+    "World/Continents/Continent 3.md",
+    "World/Continents/Continent 2.md",
+    "World/Continents/Continent 4.md",
+    "World/Continents/Continent 5.md",
+    "World/Continents/Continent 6.md",
+    "World/Continents/Continent 7.md",
+    "World/Continents/Island Chain.md",
     "README.md",
-    "World/The world.md",
     "Characters/Pantheon of Gods.md",
     "Characters/Mortals.md",
     "Characters.md",
@@ -214,9 +279,6 @@
     "Characters/Gods/Folie.md",
     "Characters/Gods",
     "World/Capital.md",
-    "Characters/Rigil Acrux.md",
-    "Characters/Kyra Raenor.md",
-    "Characters/Characters.md",
     "World",
     "Characters"
   ]
