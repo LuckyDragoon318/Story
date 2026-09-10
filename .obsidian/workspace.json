@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ab2b5a580cc422",
+        "id": "10f08b3e1e9f8b12",
         "type": "tabs",
         "children": [
           {
-            "id": "a73ec7ee73b790d2",
+            "id": "b407ff4620073797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Great Volcano.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Great Volcano"
-            }
-          },
-          {
-            "id": "8dbac867b9f7c1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Volcanic Hotspot (Wikipedia).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volcanic Hotspot (Wikipedia)"
-            }
-          },
-          {
-            "id": "7bf93567a14af62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Great Volcano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Great Volcano"
-            }
-          },
-          {
-            "id": "358e9cb95d953c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Volcanic Hotspot (Wikipedia).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volcanic Hotspot (Wikipedia)"
-            }
-          },
-          {
-            "id": "604166bd5115dca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Saline Water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saline Water"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,21 +186,29 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "751ae37c00b7c09a",
+  "active": "b407ff4620073797",
   "lastOpenFiles": [
-    "Research/Volcanic Hotspot (Wikipedia).md",
-    "Research/Saline Water.md",
-    "Research/Pillow Lava.md",
-    "Research/River Bifurcation.md",
+    "Species/Shapeshifters.md",
+    "Species.md",
+    "README.md",
+    "Species",
+    "Characters/Kyra Raenor.md",
+    "Research/Diapir (Research).md",
+    "Research/Lava (Research).md",
+    "Research/Pillow Lava (Research).md",
+    "Research/River Bifurcation (Research).md",
+    "Research/Saline Water (Research).md",
+    "Research/Salt Tectonics (Research).md",
+    "Research/Volcanic Hotspot (Research).md",
+    "World/Geography.md",
+    "World/Continents/Continent 1.md",
+    "Misc. Notes/HTML Embed.md",
     "World/Great Volcano.md",
     "Materials/Materials.md",
-    "Characters/Kyra Raenor.md",
     "World/The world.md",
     "Research",
     "World/Continents",
-    "Seastone Weapons.md",
-    "World/Continents/Continent 1.md",
-    "World/Geography.md",
+    "Misc. Notes/Seastone Weapons.md",
     "Materials/Seastone.md",
     "Materials",
     "World/Continents/Continent 3.md",
@@ -271,14 +218,7 @@
     "World/Continents/Continent 6.md",
     "World/Continents/Continent 7.md",
     "World/Continents/Island Chain.md",
-    "README.md",
-    "Characters/Pantheon of Gods.md",
-    "Characters/Mortals.md",
-    "Characters.md",
-    "Characters/Gods/Pantheon of Gods.md",
-    "Characters/Gods/Folie.md",
     "Characters/Gods",
-    "World/Capital.md",
     "World",
     "Characters"
   ]

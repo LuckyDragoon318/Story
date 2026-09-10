@@ -8,6 +8,12 @@ Kyra is a Reborn Cleric/Warlock
 
 Family: Both parents, 1 older brother
 
+Goals: 
+1 - Get rid of Rigil
+2 - Not be dead
+3 - 
+4
+
 Personality 
 Friendly, not super loud, very much wants to be redeemed for doing the bidding of her patron
 

@@ -4,3 +4,4 @@ When open in Obsidian this will act as a top Directory to other locations
 [[Geography]]
 [[Characters/Gods/Pantheon of Gods|Gods]]
 [[Materials]]
+[[Species]]
