@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,10 +190,10 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "30fe397ba2f5b936",
+  "active": "751ae37c00b7c09a",
   "lastOpenFiles": [
     "Characters/Rigil Acrux.md",
-    "Characters/README.md",
+    "README.md",
     "Characters/Patrick Stump.md",
     "New phone order of preference.md",
     "Characters/Mr. E.md",
