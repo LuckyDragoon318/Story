@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rigil Acrux.md",
+                "file": "Characters/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rigil Acrux"
+              "title": "README"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "30fe397ba2f5b936",
   "lastOpenFiles": [
-    "New phone order of preference.md",
+    "Characters/Rigil Acrux.md",
+    "Characters/README.md",
     "Characters/Patrick Stump.md",
+    "New phone order of preference.md",
     "Characters/Mr. E.md",
     "Species/Shapeshifters.md",
     "Species/Species.md",
@@ -204,7 +206,6 @@
     "World/Continents/Continent 7.md",
     "World/Continents/Island Chain.md",
     "World/Continents/Continent 6.md",
-    "Characters/README.md",
     "World/The world.md",
     "World/Continents/Continent 1.md",
     "Research/Diapir (Research).md",
@@ -222,7 +223,6 @@
     "World/Continents",
     "Misc. Notes/Seastone Weapons.md",
     "Materials",
-    "World/Continents/Continent 3.md",
     "Characters/Gods",
     "World",
     "Characters"
