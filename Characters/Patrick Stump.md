@@ -1,3 +1,9 @@
+---
+tags:
+  - Characters
+aliases:
+cssclasses:
+---
 meme character
 
 always singing FOB under his breath

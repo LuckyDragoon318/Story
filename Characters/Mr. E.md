@@ -1,6 +1,8 @@
 ---
 tags:
   - Characters
+aliases:
+cssclasses:
 ---
 Throwaway-repeat character
 
