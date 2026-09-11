@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Directory/Major Land Masses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Major Land Masses"
             }
           }
         ]
@@ -190,38 +190,38 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "751ae37c00b7c09a",
+  "active": "30fe397ba2f5b936",
   "lastOpenFiles": [
-    "Characters/Rigil Acrux.md",
+    "World/Geography.md",
+    "Directory/Pantheon of Gods.md",
+    "Directory/Mortals.md",
+    "Directory/Materials.md",
+    "Characters/Pantheon of Gods.md",
+    "Directory/Research.md",
+    "Directory",
+    "Research/River Bifurcation (Research).md",
     "README.md",
+    "Characters/Rigil Acrux.md",
     "Characters/Patrick Stump.md",
     "New phone order of preference.md",
     "Characters/Mr. E.md",
     "Species/Shapeshifters.md",
-    "Species/Species.md",
+    "Directory/Species.md",
     "Materials/Seastone.md",
-    "Untitled",
     "Research/Volcanic Hotspot (Research).md",
-    "Research/River Bifurcation (Research).md",
     "World/Continents/Continent 7.md",
     "World/Continents/Island Chain.md",
     "World/Continents/Continent 6.md",
-    "World/The world.md",
+    "Directory/Major Land Masses.md",
     "World/Continents/Continent 1.md",
     "Research/Diapir (Research).md",
     "Research/Lava (Research).md",
     "Research/Pillow Lava (Research).md",
     "Research/Saline Water (Research).md",
     "Research/Salt Tectonics (Research).md",
-    "Misc. Notes/HTML Embed.md",
     "Species",
-    "Characters/Kyra Raenor.md",
-    "World/Geography.md",
-    "World/Great Volcano.md",
-    "Materials/Materials.md",
     "Research",
     "World/Continents",
-    "Misc. Notes/Seastone Weapons.md",
     "Materials",
     "Characters/Gods",
     "World",
