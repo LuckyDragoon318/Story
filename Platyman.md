@@ -1,7 +1,6 @@
 ---
 tags:
-  - Directory
-  - Template
+  - Species
 aliases:
 cssclasses:
 ---
