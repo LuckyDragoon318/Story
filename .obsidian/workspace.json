@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "World/Geography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Geography"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "fd0c9a82e31cf7e9",
   "lastOpenFiles": [
+    "Misc. Notes/Seastone Weapons.md",
+    "README.md",
     "Templates/HTML Embed.md",
     "Templates/Directory (template).md",
     "Untitled.md",
@@ -209,7 +211,6 @@
     "Directory/Research.md",
     "Directory",
     "Research/River Bifurcation (Research).md",
-    "README.md",
     "New phone order of preference.md",
     "Species/Shapeshifters.md",
     "Directory/Species.md",
@@ -219,7 +220,6 @@
     "World/Continents/Island Chain.md",
     "World/Continents/Continent 6.md",
     "World/Continents/Continent 1.md",
-    "Research/Diapir (Research).md",
     "Species",
     "Research",
     "World/Continents",
