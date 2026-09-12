@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0df428aa727d80",
+        "id": "a7ab2b5a580cc422",
         "type": "tabs",
         "children": [
           {
-            "id": "9ccba37d51f55b0e",
+            "id": "a73ec7ee73b790d2",
             "type": "leaf",
             "state": {
+<<<<<<< main
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
@@ -22,6 +23,12 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> origin/main
             }
           }
         ]
@@ -193,27 +200,53 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "9ccba37d51f55b0e",
+  "active": "751ae37c00b7c09a",
   "lastOpenFiles": [
+<<<<<<< main
     "Characters/Patricia Tree.md",
     "Characters/Mr. E.md",
     "Piracy Sites.md",
     "Untitled.canvas",
     "Species/Platyman.md",
+=======
+    "World/Continents/Continent 1.md",
+    "World/Continents/Island Chain.md",
+    "World/Continents/Continent 7.md",
+    "World/Continents/Continent 6.md",
+    "World/Continents/Continent 5.md",
+    "World/Continents/Continent 4.md",
+    "World/Continents/Continent 3.md",
+    "World/Continents/Continent 2.md",
+    "Templates/HTML Embed.md",
+>>>>>>> origin/main
     "Species/Shapeshifters.md",
+<<<<<<< main
     "Directory/Species.md",
     "README.md",
     "Templates/Directory (template).md",
     "World/Geography.md",
+=======
+    "Research/Volcanic Hotspot (Research).md",
+    "Research/Salt Tectonics (Research).md",
+    "Research/Saline Water (Research).md",
+    "Research/River Bifurcation (Research).md",
+    "Research/Pillow Lava (Research).md",
+    "Research/Lava (Research).md",
+    "Research/Diapir (Research).md",
+>>>>>>> origin/main
     "Misc. Notes/Seastone Weapons.md",
+<<<<<<< main
     "Templates/HTML Embed.md",
     "Templates",
     "Characters/Kyra Raenor.md",
     "Characters/Rigil Acrux.md",
+=======
+    "Directory/Species.md",
+    "Directory/Research.md",
+>>>>>>> origin/main
     "Directory/Mortals.md",
-    "Directory/Major Land Masses.md",
-    "Directory/Pantheon of Gods.md",
     "Directory/Materials.md",
+<<<<<<< main
     "Characters/Pantheon of Gods.md",
     "Directory/Research.md",
     "Directory",
@@ -223,9 +256,18 @@
     "Research/Volcanic Hotspot (Research).md",
     "World/Continents/Continent 7.md",
     "World/Continents/Island Chain.md",
+=======
+    "Directory/Major Land Masses.md",
+    "Characters/Patricia Tree.md",
+    "Characters/Mr. E.md",
+    "World/Great Volcano.md",
+    "World/Continents",
+    "Templates",
+>>>>>>> origin/main
     "Species",
     "Research",
-    "World/Continents",
+    "Misc. Notes",
+    "Directory",
     "Materials",
     "Characters/Gods",
     "World",
