@@ -11,14 +11,17 @@
             "id": "9ccba37d51f55b0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Platyman.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Platyman"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -55,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Species",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +82,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.80859375
   },
   "right": {
     "id": "f9c33ee0e18dd80d",
@@ -193,18 +195,19 @@
   },
   "active": "9ccba37d51f55b0e",
   "lastOpenFiles": [
+    "Characters/Patricia Tree.md",
+    "Characters/Mr. E.md",
+    "Piracy Sites.md",
+    "Untitled.canvas",
+    "Species/Platyman.md",
     "Species/Shapeshifters.md",
-    "Platyman.md",
     "Directory/Species.md",
     "README.md",
-    "Characters/Patricia Tree.md",
     "Templates/Directory (template).md",
     "World/Geography.md",
     "Misc. Notes/Seastone Weapons.md",
     "Templates/HTML Embed.md",
-    "Untitled.md",
     "Templates",
-    "Characters/Mr. E.md",
     "Characters/Kyra Raenor.md",
     "Characters/Rigil Acrux.md",
     "Directory/Mortals.md",
@@ -220,7 +223,6 @@
     "Research/Volcanic Hotspot (Research).md",
     "World/Continents/Continent 7.md",
     "World/Continents/Island Chain.md",
-    "World/Continents/Continent 6.md",
     "Species",
     "Research",
     "World/Continents",
