@@ -1,3 +1,9 @@
+---
+tags:
+  - Geography
+aliases:
+cssclasses:
+---
 There are 5 countries (alternate name coming) that are the primary ruling body of this continent. 
 
 # Ruling Countries

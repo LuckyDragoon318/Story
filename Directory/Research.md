@@ -1,6 +1,7 @@
 ---
 tags:
   - Directory
+  - Research
 aliases:
 cssclasses:
 ---

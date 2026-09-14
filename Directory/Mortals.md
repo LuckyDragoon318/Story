@@ -3,5 +3,5 @@ tags:
   - Directory
 ---
 [[Kyra Raenor]] 
-[[Mr. E]]
+[[Emanuel Raenor]]
 [[Patricia Tree]]

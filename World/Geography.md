@@ -1,1 +1,7 @@
-There are 7 continents and a large island chain in the world that form an almost clock like shape
+---
+tags:
+  - Geography
+  - Directory
+---
+There are 8 [[Major Land Masses]]
+these are the 7 continents, and the largest of the [[Island Chain]]s
