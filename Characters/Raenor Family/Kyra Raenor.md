@@ -7,16 +7,11 @@ aliases:
 ---
 Kyra is a Reborn Cleric/Warlock
 
-Family: 
-	Older brother - Jacob Raenor
-	Mother - Amelia Raenor
-	Father - Emanuel Raenor
-	Grandmother - [[Ella Raenor]], [[Patricia Tree]]
-
 Goals (not in order): 
 1 - Get rid of [[Rigil Acrux|Rigil]]
-2 - Not be dead
+2 - Not be dead - kinda unrealistic
 3 - Regain memories
+4 - 
 
 Personality 
 Friendly, not super loud, very much wants to be redeemed for doing the bidding of her patron

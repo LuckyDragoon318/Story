@@ -7,7 +7,8 @@
 		{"id":"88fa09406fa9d6f8","type":"file","file":"Characters/Raenor Family/Molly Raenor.md","x":480,"y":-960,"width":340,"height":400},
 		{"id":"63f96b18e3a47e3f","type":"file","file":"Characters/Raenor Family/Simon Tree.md","x":-440,"y":-960,"width":320,"height":400},
 		{"id":"42fcff2310ae9ee0","type":"file","file":"Characters/Raenor Family/Ella Raenor.md","x":160,"y":-300,"width":340,"height":400},
-		{"id":"bccbf0811be890f3","type":"file","file":"Characters/Raenor Family/Emanuel Raenor.md","x":-200,"y":-300,"width":320,"height":400}
+		{"id":"bccbf0811be890f3","type":"file","file":"Characters/Raenor Family/Emanuel Raenor.md","x":-200,"y":-300,"width":320,"height":400},
+		{"id":"4072c67923c54383","x":-760,"y":240,"width":340,"height":400,"type":"file","file":"Characters/Raenor Family/Charlie.md"}
 	],
 	"edges":[
 		{"id":"b619561c50fba5f9","fromNode":"68aaee67e55836a4","fromSide":"bottom","toNode":"bccbf0811be890f3","toSide":"top"},
@@ -23,6 +24,8 @@
 		{"id":"5f138cb8d074afbc","fromNode":"63f96b18e3a47e3f","fromSide":"left","toNode":"68aaee67e55836a4","toSide":"right"},
 		{"id":"1376ba20df5e8f1a","fromNode":"68aaee67e55836a4","fromSide":"right","toNode":"63f96b18e3a47e3f","toSide":"left"},
 		{"id":"3e533fac93f1a0f5","fromNode":"42fcff2310ae9ee0","fromSide":"left","toNode":"bccbf0811be890f3","toSide":"right"},
-		{"id":"f90ac228de39512a","fromNode":"bccbf0811be890f3","fromSide":"right","toNode":"42fcff2310ae9ee0","toSide":"left"}
+		{"id":"f90ac228de39512a","fromNode":"bccbf0811be890f3","fromSide":"right","toNode":"42fcff2310ae9ee0","toSide":"left"},
+		{"id":"56cb9f077f79b4c5","fromNode":"4072c67923c54383","fromSide":"right","toNode":"aa927b59be24888e","toSide":"left"},
+		{"id":"dbf9d34cab1d1192","fromNode":"aa927b59be24888e","fromSide":"left","toNode":"4072c67923c54383","toSide":"right"}
 	]
 }
