@@ -11,14 +11,10 @@
             "id": "8372a06d749fc578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Raenor Family/Kyra Raenor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kyra Raenor"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Raenor Family/Kyra Raenor.md",
+                "file": "World/Geography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyra Raenor"
+              "title": "Geography"
             }
           }
         ]
@@ -206,8 +202,19 @@
   },
   "active": "8372a06d749fc578",
   "lastOpenFiles": [
-    "Characters/Rigil Acrux.md",
     "Characters/Raenor Family/Kyra Raenor.md",
+    "World/Geography.md",
+    "World/Capital.md",
+    "World/Continents/Island Chain.md",
+    "World/Continents/Continent 7.md",
+    "World/Continents/Continent 6.md",
+    "World/Continents/Continent 5.md",
+    "World/Continents/Continent 4.md",
+    "World/Continents/Continent 2.md",
+    "World/Continents/Continent 3.md",
+    "World/Continents/Continent 1.md",
+    "Characters/Gods/Folie.md",
+    "Characters/Rigil Acrux.md",
     "Characters/Raenor Family/Raenor Family Tree.canvas",
     "Characters/Raenor Family/Molly Raenor.md",
     "Directory/Mortals.md",
@@ -216,22 +223,12 @@
     "Characters/Raenor Family/Charlie.md",
     "Directory/Major Land Masses.md",
     "Characters/Potential Character Names.md",
-    "World/Geography.md",
-    "World/Continents/Island Chain.md",
     "Directory/Species.md",
     "Directory/Research.md",
     "Directory/Pantheon of Gods.md",
     "Directory/Materials.md",
     "Research/Lava (Research).md",
     "World/Magic.md",
-    "World/Hearts of the Clock.md",
-    "World/The Clock.md",
-    "World/Capital.md",
-    "World/Great Volcano.md",
-    "World/Continents/Continent 1.md",
-    "World/Continents/Continent 2.md",
-    "World/Continents/Continent 3.md",
-    "World/Continents/Continent 4.md",
     "D&D Sessions",
     "Characters/Raenor Family",
     "Characters/Family Trees",
