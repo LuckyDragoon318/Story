@@ -11,10 +11,14 @@
             "id": "237caf31bfef3e36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English Essay and Story.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "English Essay and Story"
             }
           }
         ]
@@ -186,10 +190,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "237caf31bfef3e36",
   "lastOpenFiles": [
-    "English \"essay\".md",
-    "English \"essay\".md",
+    "English Essay and Story.md",
+    "English Essay and Story.md",
+    "English Essay and Story.md",
     "Species/Platyman.md",
     "README.md",
     "World/Geography.md",
@@ -214,7 +219,6 @@
     "Characters/Raenor Family/Charlie.md",
     "Directory/Major Land Masses.md",
     "Directory/Species.md",
-    "Directory/Research.md",
     "D&D Sessions",
     "Characters/Raenor Family",
     "Characters/Family Trees",
