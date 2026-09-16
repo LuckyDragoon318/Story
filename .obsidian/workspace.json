@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4267c581f068b7a8",
+            "id": "237caf31bfef3e36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Species/Platyman.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Platyman"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,10 @@
   },
   "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
+    "English \"essay\".md",
+    "English \"essay\".md",
+    "Species/Platyman.md",
     "README.md",
-    "Untitled.md",
     "World/Geography.md",
     "Characters/Potential Character Names.md",
     "Characters/Raenor Family/Kyra Raenor.md",
@@ -217,8 +215,6 @@
     "Directory/Major Land Masses.md",
     "Directory/Species.md",
     "Directory/Research.md",
-    "Directory/Pantheon of Gods.md",
-    "Directory/Materials.md",
     "D&D Sessions",
     "Characters/Raenor Family",
     "Characters/Family Trees",
