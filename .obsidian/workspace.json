@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "c7eea0da907a38f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Papermaking (Research).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Papermaking (Research)"
+            }
+          },
+          {
             "id": "e7a3848e65e8d2fb",
             "type": "leaf",
             "state": {
@@ -202,8 +216,10 @@
   },
   "active": "70d49c566c811ab5",
   "lastOpenFiles": [
-    "Characters/Raenor Family/Raenor Family Tree.canvas",
+    "Research/Papermaking (Research).md",
+    "Templates/HTML Embed.md",
     "English Essay and Story.md",
+    "Characters/Raenor Family/Raenor Family Tree.canvas",
     "Ideas.md",
     "Characters/Raenor Family/Kyra Raenor.md",
     "Objects/Seastone Weapons.md",
@@ -221,7 +237,6 @@
     "README.md",
     "World/POI/Brimstone Peak.md",
     "World/POI",
-    "Templates/HTML Embed.md",
     "World/Magic.md",
     "Directory/Pantheon of Gods.md",
     "Characters/Gods/The Unnamed God.md",
