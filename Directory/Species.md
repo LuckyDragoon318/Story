@@ -5,3 +5,5 @@ tags:
 ---
 [[Shapeshifters]]
 [[Platyman]]
+[[Elves]]
+[[Humans]]

@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -41,11 +41,18 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#Directory  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": 3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.051367617533306,
+  "scale": 0.9624386932327057,
   "close": false
 }
