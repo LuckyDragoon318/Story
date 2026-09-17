@@ -32,7 +32,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +202,10 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "70d49c566c811ab5",
+  "active": "e7a3848e65e8d2fb",
   "lastOpenFiles": [
-    "Characters/Raenor Family/Kyra Raenor.md",
     "English Essay and Story.md",
+    "Characters/Raenor Family/Kyra Raenor.md",
     "Max Blunder.md",
     "Research/Papermaking (Research).md",
     "Templates/HTML Embed.md",
