@@ -12,3 +12,4 @@ cssclasses:
 [[Saline Water (Research)]]
 [[Lava (Research)]]
 [[Pillow Lava (Research)]]
+[[Papermaking (Research)]]
