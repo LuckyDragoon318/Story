@@ -3,15 +3,15 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Characters  ",
       "color": {
         "a": 1,
-        "rgb": 65344
+        "rgb": 65280
       }
     },
     {

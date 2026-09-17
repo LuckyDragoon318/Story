@@ -1,6 +1,8 @@
 ---
 tags:
   - Directory
+aliases:
+cssclasses:
 ---
 # Story
 When open in Obsidian this will act as a top Directory to other locations
@@ -11,3 +13,7 @@ When open in Obsidian this will act as a top Directory to other locations
 [[Species]]
 [[Research]]
 [[City Names]]
+
+# Future Tasks
+Better Organization
+	Sort Documents: Continent/Primary Tag/Sub-Tag/

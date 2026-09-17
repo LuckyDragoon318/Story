@@ -1,6 +1,7 @@
 ---
 tags:
   - Magic
+  - Lore
 aliases:
 cssclasses:
 ---

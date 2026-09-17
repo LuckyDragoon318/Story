@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Potential Character Names.md",
+                "file": "Objects/Crown of Domination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Character Names"
+              "title": "Crown of Domination"
             }
           }
         ]
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,12 +192,25 @@
   },
   "active": "70d49c566c811ab5",
   "lastOpenFiles": [
-    "Characters/The Unnamed God.md",
-    "Characters/Seraveth.md",
-    "Characters/Malachar.md",
-    "Characters/Lord Varek.md",
-    "Characters/Karthavoss.md",
     "Characters/Ashen King.md",
+    "Characters/Karthavoss.md",
+    "Characters/Lord Varek.md",
+    "Characters/Seraveth.md",
+    "Characters/Rigil Acrux.md",
+    "Characters/Potential Character Names.md",
+    "Characters/Malachar.md",
+    "Species/Shapeshifters.md",
+    "Directory/City Names.md",
+    "Objects",
+    "README.md",
+    "Untitled.md",
+    "World/POI/Brimstone Peak.md",
+    "World/POI",
+    "Templates/HTML Embed.md",
+    "World/Magic.md",
+    "Directory/Pantheon of Gods.md",
+    "Characters/Gods/The Unnamed God.md",
+    "Characters/Gods/Folie.md",
     "World/Cities/Portwall.md",
     "World/Cities/Riverwood.md",
     "World/Cities/Baulder's Gate.md",
@@ -208,17 +220,6 @@
     "World/Cities/Northridge.md",
     "World/Cities/Neverwinter.md",
     "World/Cities/Summerwood.md",
-    "World/Cities/Screeland.md",
-    "World/Brimstone Peak.md",
-    "World/The Brinelands.md",
-    "World/Cities/Thieves Rest.md",
-    "World/Cities/Tribute Falls.md",
-    "World/Cities/Waterdeep.md",
-    "World/Capital.md",
-    "World/Continents/Continent 1.md",
-    "World/Background.md",
-    "Directory/City Names.md",
-    "README.md",
     "Resort/The Shattered Crown/Session Prep/Session Layout.canvas",
     "Resort/The Shattered Crown/Session Prep",
     "Resort/The Shattered Crown",
@@ -228,8 +229,6 @@
     "Resort",
     "Characters/Raenor Family/Raenor Family Tree.canvas",
     "D&D Sessions",
-    "Characters/Raenor Family",
-    "Characters/Family Trees",
-    "Untitled.base"
+    "Characters/Raenor Family"
   ]
 }
