@@ -4,7 +4,6 @@ aliases:
   - Aldrath
   - Vorne
 tags:
-  - INCOMPLETE
   - NPC
 ---
 The Ashen King, Aldrath Vorne, is long dead. He was an absolute ruler, who believed with the certainty of a man who had never been wrong, that [[Aethermoor]] was in need of a single, all powerful ruler. For 30 years he waged war on all those who dared to oppose him, and he won. He was unstoppable. 

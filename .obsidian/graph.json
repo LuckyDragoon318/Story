@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Characters  ",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 43775
       }
+    },
+    {
+      "query": "tag:#Cities  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9624386932327057,
+  "scale": 0.7026471506877702,
   "close": false
 }
