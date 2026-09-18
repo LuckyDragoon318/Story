@@ -1,3 +1,11 @@
+---
+tags:
+  - Characters
+  - Raenor
+  - Alt
+aliases:
+cssclasses:
+---
 Have you ever read a book written by someone who died? You probably have, lots of authors die, but very few of them write a book after they die. As far as I know, I'm actually the first!
 
 I should probably explain how I’m writing this if I’m already dead. My life was very normal for a long time, I grew up with a happy family, and my famous (crazy) grandmother, [[Patricia Tree]]. But they aren’t really important now. My name is [[Kyra Raenor|Kyra]], and I am was a Wood [[Elves|Elf]] who lived just outside the small town Winterport. It was (maybe it still is, I don’t know how long I was dead) a very small town, only a couple of hundred people, nothing like [[Riverwood]]. I also come from a very religious family, for more generations than we have documented, the Raenor family have devoted themselves to Lady [[Folie]], the goddess of agriculture. 
