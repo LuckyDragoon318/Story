@@ -1,72 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Characters  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "tag:#Research",
-      "color": {
-        "a": 1,
-        "rgb": 16772393
-      }
-    },
-    {
-      "query": "tag:#Geography  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Lore  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711901
-      }
-    },
-    {
-      "query": "tag:#Deity  ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "tag:#Directory  ",
-      "color": {
-        "a": 1,
-        "rgb": 43775
-      }
-    },
-    {
-      "query": "tag:#Cities  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 5,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 1.50152479892761,
+  "lineSizeMultiplier": 4.14364946380697,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7767117555646081,
+  "scale": 0.7913388891359345,
   "close": false
 }

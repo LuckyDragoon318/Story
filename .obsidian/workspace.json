@@ -11,29 +11,41 @@
             "id": "70d49c566c811ab5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bf5245c2c99d9499",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "English Essay and Story.md",
+                "file": "Continent 1/POI/Great Volcano.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "English Essay and Story"
+              "title": "Great Volcano"
             }
           },
           {
             "id": "e7a3848e65e8d2fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Continent 1/POI/The Brinelands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Brinelands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,22 +214,30 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "e7a3848e65e8d2fb",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
+    "Continent 1/Continent 1.md",
+    "Continent 1/POI/Brimstone Peak.md",
+    "Continent 1/POI/The Brinelands.md",
+    "Continent 1/POI/Great Volcano.md",
+    "World/Continents/Continent 7.md",
+    "World/Continents/Continent 6.md",
+    "World/Continents/Continent 5.md",
+    "World/Continents/Continent 4.md",
+    "World/Continents/Continent 3.md",
+    "English Essay and Story.md",
+    "Continent 2",
     "Directory/Mortals.md",
     "Lore/Magic.md",
     "Lore",
     "World/Geography.md",
     "World/Background.md",
-    "World/Continents/Continent 1.md",
-    "Continent 1/POI/The Brinelands.md",
     "Continent 1",
     "Points of Interest.md",
     "Directory/Major Land Masses.md",
     "Templates/HTML Embed.md",
     "Directory/Research.md",
     "Research/Papermaking (Research).md",
-    "English Essay and Story.md",
     "Ideas.md",
     "README.md",
     "Continent 1/Characters/Raenor Family/Raenor Family Tree.canvas",
@@ -226,13 +246,6 @@
     "Continent 1/Characters/Max Blunder.md",
     "Objects/Seastone Weapons.md",
     "Objects/Crown of Domination.md",
-    "Continent 1/Characters/Ashen King.md",
-    "Continent 1/Characters/Karthavoss.md",
-    "Continent 1/Characters/Lord Varek.md",
-    "Continent 1/Characters/Seraveth.md",
-    "Continent 1/Characters/Rigil Acrux.md",
-    "Continent 1/Characters/Potential Character Names.md",
-    "Continent 1/Characters/Malachar.md",
     "Objects",
     "Continent 1/POI",
     "Resort/The Shattered Crown/Session Prep/Session Layout.canvas",
@@ -240,7 +253,6 @@
     "Resort/The Shattered Crown",
     "Resort/NPC-Monster",
     "Continent 1/Cities",
-    "Resort/General",
-    "Resort"
+    "Resort/General"
   ]
 }
