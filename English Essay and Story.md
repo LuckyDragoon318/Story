@@ -11,3 +11,4 @@ Obviously they wouldn’t be satisfied with the story “I’m using this pouch 
 In my short story, I specifically took took advice from 3 of the authors we looked at, but the 2 who I was focusing on are Anne Lamott with writing crummy first drafts, and Maggie Smith with the idea that writing requires attention to detail. 
 	named every person and location, rather than ignoring them
 	numbers flip between decimal and word
+	had to repeatedly click ignore on autocorrect
