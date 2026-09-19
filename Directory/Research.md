@@ -1,6 +1,7 @@
 ---
 tags:
   - Directory
+  - Research
 aliases:
 cssclasses:
 ---
@@ -11,3 +12,4 @@ cssclasses:
 [[Saline Water (Research)]]
 [[Lava (Research)]]
 [[Pillow Lava (Research)]]
+[[Papermaking (Research)]]

@@ -12,7 +12,7 @@
   "page-preview": true,
   "daily-notes": false,
   "templates": true,
-  "note-composer": true,
+  "note-composer": false,
   "command-palette": false,
   "slash-command": false,
   "editor-status": true,

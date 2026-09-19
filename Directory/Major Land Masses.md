@@ -1,6 +1,7 @@
 ---
 tags:
   - Directory
+  - Geography
 ---
 [[Continent 1]]
 [[Continent 2]]

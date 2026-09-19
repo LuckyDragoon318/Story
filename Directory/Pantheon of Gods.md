@@ -13,7 +13,7 @@ Earth -
 Air - 
 Fire - 
 Life - 
-Death - 
+Death - [[The Unnamed God]]
 Chaos - 
 Order - 
 Emotion - 
