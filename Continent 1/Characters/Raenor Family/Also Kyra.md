@@ -16,4 +16,4 @@ My journey into town was very boring, just a 6 mile walk in the woods, but by th
 
 Obviously they wouldn’t be satisfied with the story “I’m using this pouch of 100 gold to buy a bunch of sheets of paper” that sounds stupid, who would believe that? I sure wouldn’t! So they beat me up trying to get the “real” story out of me. Maybe 3 minutes into this, a brilliant green light filled the alleyway, and all five guys got yanked into the air by grape vines. The figure proceeded to, fling all five of the thugs in the back wall of the alley with what looked like nothing but a thought. The person who I was sure was Lady [[Folie]], simply floated my money back to my hand, and vanished in a green whirlpool that floated above her. Stunned, I fled into the Gnome Depot, bought my paper, and ran nearly all 6 miles back to the temple. 
 
-Obviously I had to tell everyone about my experience 
+Obviously I had to tell everyone about my experience once I got back to the temple.
