@@ -11,24 +11,10 @@
             "id": "a73ec7ee73b790d2",
             "type": "leaf",
             "state": {
-<<<<<<< main
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-=======
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
->>>>>>> origin/main
             }
           }
         ]
@@ -93,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.80859375
+    "width": 300
   },
   "right": {
     "id": "f9c33ee0e18dd80d",
@@ -202,13 +188,7 @@
   },
   "active": "751ae37c00b7c09a",
   "lastOpenFiles": [
-<<<<<<< main
-    "Characters/Patricia Tree.md",
-    "Characters/Mr. E.md",
-    "Piracy Sites.md",
     "Untitled.canvas",
-    "Species/Platyman.md",
-=======
     "World/Continents/Continent 1.md",
     "World/Continents/Island Chain.md",
     "World/Continents/Continent 7.md",
@@ -218,14 +198,7 @@
     "World/Continents/Continent 3.md",
     "World/Continents/Continent 2.md",
     "Templates/HTML Embed.md",
->>>>>>> origin/main
     "Species/Shapeshifters.md",
-<<<<<<< main
-    "Directory/Species.md",
-    "README.md",
-    "Templates/Directory (template).md",
-    "World/Geography.md",
-=======
     "Research/Volcanic Hotspot (Research).md",
     "Research/Salt Tectonics (Research).md",
     "Research/Saline Water (Research).md",
@@ -233,37 +206,16 @@
     "Research/Pillow Lava (Research).md",
     "Research/Lava (Research).md",
     "Research/Diapir (Research).md",
->>>>>>> origin/main
     "Misc. Notes/Seastone Weapons.md",
-<<<<<<< main
-    "Templates/HTML Embed.md",
-    "Templates",
-    "Characters/Kyra Raenor.md",
-    "Characters/Rigil Acrux.md",
-=======
     "Directory/Species.md",
     "Directory/Research.md",
->>>>>>> origin/main
     "Directory/Mortals.md",
     "Directory/Materials.md",
-<<<<<<< main
-    "Characters/Pantheon of Gods.md",
-    "Directory/Research.md",
-    "Directory",
-    "Research/River Bifurcation (Research).md",
-    "New phone order of preference.md",
-    "Materials/Seastone.md",
-    "Research/Volcanic Hotspot (Research).md",
-    "World/Continents/Continent 7.md",
-    "World/Continents/Island Chain.md",
-=======
     "Directory/Major Land Masses.md",
     "Characters/Patricia Tree.md",
     "Characters/Mr. E.md",
-    "World/Great Volcano.md",
     "World/Continents",
     "Templates",
->>>>>>> origin/main
     "Species",
     "Research",
     "Misc. Notes",
