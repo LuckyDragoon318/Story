@@ -11,10 +11,14 @@
             "id": "11b8db25b9a35022",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Continent 1/Characters/Malachar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Malachar"
             }
           }
         ]
@@ -186,8 +190,13 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "11b8db25b9a35022",
   "lastOpenFiles": [
+    "Continent 1/Characters/Max Blunder.md",
+    "Continent 1/Characters/Potential Character Names.md",
+    "Continent 1/Characters/Rigil Acrux.md",
+    "Continent 1/Characters/Seraveth.md",
+    "Untitled.canvas",
     "World/Continents/Continent 2.md",
     "World/Continents/Continent 1.md",
     "Characters/Gods/Folie.md",
@@ -198,12 +207,10 @@
     "Characters/Patricia Tree.md",
     "Characters/Mr. E.md",
     "Characters/Kyra Raenor.md",
-    "Untitled.canvas",
     "Characters/Gods",
     "Misc. Notes",
     "Characters",
     "Continent 1/Characters/Raenor Family/Also Kyra.md",
-    "Continent 1/Characters/Max Blunder.md",
     "Continent 1/POI/The Brinelands.md",
     "Continent 1/POI/Great Volcano.md",
     "Continent 1/Continent 1.md",
@@ -217,10 +224,7 @@
     "Directory/Mortals.md",
     "Lore/Magic.md",
     "Lore",
-    "World/Geography.md",
-    "World/Background.md",
     "Continent 1",
-    "Points of Interest.md",
     "Continent 1/Characters/Raenor Family/Raenor Family Tree.canvas",
     "Objects",
     "Continent 1/POI",
