@@ -1,0 +1,1 @@
+There is a nation sized city, made of white marble and [[Seastone]]. It floats far above the central continent, where the borders of the 5 kingdoms meet 
