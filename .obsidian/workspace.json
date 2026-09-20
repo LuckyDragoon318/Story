@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "95ba6833df000ced",
+        "id": "bb530b0e5610d504",
         "type": "tabs",
         "children": [
           {
-            "id": "11b8db25b9a35022",
+            "id": "108b9761606a6bf3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "New tab"
             }
           }
         ]
@@ -190,8 +186,12 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "11b8db25b9a35022",
+  "active": "108b9761606a6bf3",
   "lastOpenFiles": [
+    "Continent 1/Characters/Raenor Family/Also Kyra.md",
+    "Continent 1/Characters/Raenor Family/Kyra Raenor.md",
+    "Continent 1/Characters/Raenor Family/Benny Raenor.md",
+    "Ideas.md",
     "Continent 1/Characters/Malachar.md",
     "Continent 1/Characters/Max Blunder.md",
     "Continent 1/Characters/Potential Character Names.md",
@@ -211,7 +211,6 @@
     "Characters/Gods",
     "Misc. Notes",
     "Characters",
-    "Continent 1/Characters/Raenor Family/Also Kyra.md",
     "Continent 1/POI/The Brinelands.md",
     "Continent 1/POI/Great Volcano.md",
     "Continent 1/Continent 1.md",
@@ -219,10 +218,7 @@
     "World/Continents/Continent 7.md",
     "World/Continents/Continent 6.md",
     "World/Continents/Continent 5.md",
-    "World/Continents/Continent 4.md",
-    "World/Continents/Continent 3.md",
     "Continent 2",
-    "Directory/Mortals.md",
     "Lore",
     "Continent 1",
     "Continent 1/Characters/Raenor Family/Raenor Family Tree.canvas",
