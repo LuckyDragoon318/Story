@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb530b0e5610d504",
+        "id": "0f83d8e300f8db4c",
         "type": "tabs",
         "children": [
           {
-            "id": "82aaa04a445a67d9",
+            "id": "3631359a88f7d13e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "enterprise.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "enterprise"
+              "title": "New tab"
             }
           }
         ]
@@ -190,11 +186,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "82aaa04a445a67d9",
+  "active": "3631359a88f7d13e",
   "lastOpenFiles": [
+    "PC Parts.md",
     "enterprise.md",
     "why.md",
-    "PC Parts.md",
     "Continent 1/Characters/Raenor Family/Also Kyra.md",
     "Continent 1/Characters/Raenor Family/Kyra Raenor.md",
     "Continent 1/Characters/Raenor Family/Benny Raenor.md",
