@@ -11,14 +11,10 @@
             "id": "82aaa04a445a67d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "why.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "why"
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "82aaa04a445a67d9",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
     "PC Parts.md",
     "why.md",
