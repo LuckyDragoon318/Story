@@ -2,13 +2,13 @@
 tags:
   - Directory
 ---
-[[Kyra Raenor]] 
+[[Kyra Raenor 1]] 
 [[Emanuel Raenor]]
-[[Patricia Tree]]
+[[Patricia Tree 1]]
 [[Benny Raenor]]
 [[Ella Raenor]]
 [[Jacob Raenor]]
 [[Molly Raenor]]
 [[Simon Tree]]
 [[Charlie]]
-[[Rigil Acrux]]
+[[Rigil Acrux 1]]
