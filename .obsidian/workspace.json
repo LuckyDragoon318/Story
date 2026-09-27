@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68aafa5a498e766e",
+        "id": "59e78651cf8f4df6",
         "type": "tabs",
         "children": [
           {
-            "id": "f839cf46aa8926c1",
+            "id": "8fcc762b45b44d3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,7 +186,7 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "f839cf46aa8926c1",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
     "Who is that girl.md",
     "It's A Puzzle.md",
