@@ -10,5 +10,5 @@ tags:
 [[Continent 5]]
 [[Continent 6]]
 [[Continent 7]]
-[[Capital]]
+[[Capital 1]]
 [[Island Chain]]

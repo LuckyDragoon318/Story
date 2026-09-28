@@ -10,6 +10,6 @@ cssclasses:
 
 straight up just the golden weapons from Ninjago made out of Rocks
 
-The Seastone Weapons are weapons that were forged in the [[Great Volcano]]
+The Seastone Weapons are weapons that were forged in the [[Great Volcano 1]]
 
 They have been imbued with the power of 

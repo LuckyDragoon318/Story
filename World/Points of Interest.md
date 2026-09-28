@@ -1,5 +1,5 @@
 [[Brimstone Peak]]
-[[Great Volcano]]
+[[Great Volcano 1]]
 [[Hearts of the Clock]]
 [[The Clock]]
 [[The Brinelands]]
