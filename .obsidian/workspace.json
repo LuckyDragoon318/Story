@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a404e80f6bc35a93",
+        "id": "86745e4b3f44c5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f70d33367f173259",
+            "id": "5d6d7ec12f7b4fe1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continent 1/Characters/Raenor Family/Stand Up Girl.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Stand Up Girl"
+              "title": "New tab"
             }
           }
         ]
@@ -190,9 +186,12 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "f70d33367f173259",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
     "Continent 1/Characters/Raenor Family/Kyra Raenor.md",
+    "maybe just ignore this honestly.md",
+    "Lich Wizard.md",
+    "Continent 1/Characters/Raenor Family/Stand Up Girl.md",
     "Continent 1/Characters/Raenor Family/Also Kyra.md",
     "Ideas.md",
     "README.md",
@@ -215,9 +214,6 @@
     "Species/Elves.md",
     "It's A Puzzle.md",
     "Electrical.md",
-    "enterprise.md",
-    "Continent 1/POI/Salt Lake.md",
-    "PC Parts.md",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
     "Misc. Notes",
