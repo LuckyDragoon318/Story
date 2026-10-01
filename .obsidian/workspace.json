@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b22da2fc40f5b33",
+            "id": "f6aeb3d09082f0a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scroll through the weapons.md",
+                "file": "Misc. Notes/Seastone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scroll through the weapons"
+              "title": "Seastone"
             }
           }
         ]
@@ -190,8 +190,9 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7b22da2fc40f5b33",
+  "active": "f6aeb3d09082f0a1",
   "lastOpenFiles": [
+    "Game Manual Notes.md",
     "Scroll through the weapons.md",
     "misc lyrics.md",
     "Continent 1/Characters/Raenor Family/Kyra Raenor.md",
@@ -217,7 +218,6 @@
     "Continent 1/Characters/Raenor Family/Kyra Raenor 1.md",
     "Continent 1/Characters/Raenor Family/Patricia Tree.md",
     "Continent 1/Characters/Raenor Family/Patricia Tree 1.md",
-    "Species/Elves.md",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
     "Misc. Notes",
