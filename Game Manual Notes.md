@@ -4,6 +4,8 @@ tags:
 aliases:
 cssclasses:
 ---
+left off on page # 134
+
 ### Misc.
 (time is M:SS)
 
@@ -29,7 +31,12 @@ fuel = .5 lbs
 2:10, 1:45, 1:20, :55
 30 second end game
 Quals schedule will be available *at least* 30 minutes before the first qualification match
+number of matches in each driver station will be roughly equal, same for red and blue alliances
 
+team ranking position is determined( 1. Ranking points, 2. Average alliance match points, not including major or minor fouls, 3. Average auto fuel, 4. Average tower points, 5. Random ordering by FMS
+Alliance selection will begin 8 minutes after the last qualification match ends
+only the alliance captain may approach the emcee and use the mic
+there are up to 3 "overtime" matches if finals matches are tied
 ### Match Timing
 auto 
 	0:20 - 0:00
@@ -109,7 +116,11 @@ no flamethrowers D:
 do not contaminate the field
 you cannot earn ranking points if you fail inspection
 	bring everything to inspection
-	
+safety first
+don't be an ass
+no sales
+no powered propulsion on robot carts
+
 ### Done
 robot construction stuff
 bumpers

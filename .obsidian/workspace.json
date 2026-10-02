@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc. Notes/Seastone.md",
+                "file": "Game Manual Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seastone"
+              "title": "Game Manual Notes"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "f6aeb3d09082f0a1",
   "lastOpenFiles": [
+    "Misc. Notes/Seastone.md",
     "Game Manual Notes.md",
     "Scroll through the weapons.md",
     "misc lyrics.md",
@@ -204,7 +205,6 @@
     "README.md",
     "Who is that girl.md",
     "Templates/HTML Embed.md",
-    "Misc. Notes/Seastone.md",
     "Directory/Major Land Masses.md",
     "World/Geography.md",
     "Continent 1/Cities/Capital 1.md",
