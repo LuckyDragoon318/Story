@@ -4,7 +4,6 @@ tags:
 aliases:
 cssclasses:
 ---
-left off on page # 134
 
 ### Misc.
 (time is M:SS)
