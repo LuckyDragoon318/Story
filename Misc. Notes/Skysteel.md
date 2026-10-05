@@ -1,0 +1,1 @@
+A reflective, glowing white element, when completely pure it is capable of absorbing elemental magic, 
