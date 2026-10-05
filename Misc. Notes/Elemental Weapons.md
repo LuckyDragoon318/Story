@@ -12,4 +12,4 @@ Unlike regular magic, using the Elemental Weapons is only as taxing to the wield
 
 the spear head is double edged, with a groove down the center of each side of the head, both for visual, and also function 
 > [!spoiler]- little bit gruesome
-> despite being forged for good, the spear heads feature the channel as a space to allow blood to flow out of the stab wound before the spear is removed from the target
+> despite being forged for good, the spear heads feature a channel on each side as a space to allow blood to flow out of the stab wound before the spear is removed from the target
