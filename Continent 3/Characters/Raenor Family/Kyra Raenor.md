@@ -11,7 +11,6 @@ Goals (not in order):
 1 - Get rid of [[Rigil Acrux 1|Rigil]]
 2 - Not be dead - kinda unrealistic
 3 - Regain memories
-4 - 
 
 Personality 
 Friendly, not super loud, very much wants to be redeemed for doing the bidding of her patron
