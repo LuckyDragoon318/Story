@@ -11,10 +11,14 @@
             "id": "c85df506d9c3f65e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Cities/Mimicsville.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mimicsville"
             }
           }
         ]
@@ -186,8 +190,9 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "c85df506d9c3f65e",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
+    "Continent 3/Cities/Mimicsville.md",
     "README.md",
     "Other Random Shit/Electrical.md",
     "Continent 3/Characters/Gods/The Unnamed God.md",
@@ -215,7 +220,6 @@
     "Directory/Pantheon of Gods.md",
     "Other Random Shit/Who is that girl.md",
     "Other Random Shit/Game Manual Notes.md",
-    "Continent 3/Characters/Gods/Folie.md",
     "Other Random Shit",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
