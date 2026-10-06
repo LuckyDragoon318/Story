@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc. Notes/Skysteel.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skysteel"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,16 +204,16 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "bf2a0149c2d7de3f",
+  "active": "f6aeb3d09082f0a1",
   "lastOpenFiles": [
-    "Misc. Notes/The Clock.md",
+    "README.md",
     "Misc. Notes/Skysteel.md",
+    "Misc. Notes/The Clock.md",
     "Misc. Notes/Elemental Weapons.md",
     "Misc. Notes/Hearts of the Clock.md",
     "Misc. Notes/Magic.md",
     "Continent 3/Continent 3.md",
     "World/Continents/Continent 1.md",
-    "README.md",
     "HTTPS.md",
     "Continent 3/Characters/Raenor Family/Mr. E.md",
     "Misc. Notes/Seastone.md",
