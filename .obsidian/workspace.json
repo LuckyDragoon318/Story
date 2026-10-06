@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86745e4b3f44c5cb",
+        "id": "37e5715ee5c117b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6aeb3d09082f0a1",
+            "id": "c85df506d9c3f65e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc. Notes/Skysteel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Skysteel"
-            }
-          },
-          {
-            "id": "bf2a0149c2d7de3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -204,11 +186,16 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "f6aeb3d09082f0a1",
+  "active": "c85df506d9c3f65e",
   "lastOpenFiles": [
-    "gitignore",
     "README.md",
+    "Other Random Shit/Electrical.md",
+    "Continent 3/Characters/Gods/The Unnamed God.md",
+    "Continent 3/Characters/Keppra.md",
+    "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
+    "Continent 3/Characters/Potential Character Names.md",
     "Misc. Notes/Skysteel.md",
+    "gitignore",
     "Misc. Notes/The Clock.md",
     "Misc. Notes/Elemental Weapons.md",
     "Misc. Notes/Hearts of the Clock.md",
@@ -220,7 +207,6 @@
     "Misc. Notes/Seastone.md",
     "Misc. Notes/Shadowsteel.md",
     "Misc. Notes/Crown of Domination.md",
-    "Other Random Shit/Electrical.md",
     "Other Random Shit/enterprise.md",
     "Other Random Shit/PC Parts.md",
     "Other Random Shit/Scroll through the weapons.md",
@@ -230,8 +216,6 @@
     "Other Random Shit/Who is that girl.md",
     "Other Random Shit/Game Manual Notes.md",
     "Continent 3/Characters/Gods/Folie.md",
-    "Continent 1/Characters/Gods 1/Folie.md",
-    "Continent 3/Characters/Gods/The Unnamed God.md",
     "Other Random Shit",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
@@ -240,10 +224,8 @@
     "Continent 2",
     "Lore",
     "Continent 3",
-    "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
     "Objects",
     "Continent 3/POI",
-    "Resort/The Shattered Crown/Session Prep/Session Layout.canvas",
-    "Resort/The Shattered Crown/Session Prep"
+    "Resort/The Shattered Crown/Session Prep/Session Layout.canvas"
   ]
 }
