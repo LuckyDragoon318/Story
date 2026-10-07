@@ -4,5 +4,4 @@ tags:
 aliases:
 cssclasses:
 ---
-
-[[The Clock]] 
+[[The Clock]] is the source of all magic in the world
