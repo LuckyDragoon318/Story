@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37e5715ee5c117b5",
+        "id": "7a7d749f53ede3d1",
         "type": "tabs",
         "children": [
           {
-            "id": "c85df506d9c3f65e",
+            "id": "5c3082c4ae27db02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continent 3/Continent 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Continent 3"
+              "title": "New tab"
             }
           }
         ]
@@ -190,8 +186,14 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "c85df506d9c3f65e",
+  "active": "5c3082c4ae27db02",
   "lastOpenFiles": [
+    "Schedule.md",
+    "Misc Notes/D&D Sessions/Session 1.md",
+    "Misc Notes/Micah.md",
+    "Misc Notes/D&D Sessions",
+    "Misc Notes",
+    "Continent 3/Continent 3.md",
     "World/Geography.md",
     "World/Ideas.md",
     "README.md",
@@ -209,7 +211,6 @@
     "Continent 3/Characters/Potential Character Names.md",
     "Misc. Notes/Skysteel.md",
     "gitignore",
-    "Continent 3/Continent 3.md",
     "World/Continents/Continent 1.md",
     "HTTPS.md",
     "Continent 3/Characters/Raenor Family/Mr. E.md",
@@ -217,9 +218,6 @@
     "Misc. Notes/Shadowsteel.md",
     "Misc. Notes/Crown of Domination.md",
     "Other Random Shit/enterprise.md",
-    "Other Random Shit/PC Parts.md",
-    "Other Random Shit/Scroll through the weapons.md",
-    "Other Random Shit/It's A Puzzle.md",
     "Other Random Shit",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
@@ -228,8 +226,6 @@
     "Continent 2",
     "Lore",
     "Continent 3",
-    "Objects",
-    "Continent 3/POI",
     "Resort/The Shattered Crown/Session Prep/Session Layout.canvas"
   ]
 }
