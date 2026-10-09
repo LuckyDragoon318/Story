@@ -11,10 +11,14 @@
             "id": "5c3082c4ae27db02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/POI/The Eye.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Eye"
             }
           }
         ]
@@ -186,17 +190,22 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "5c3082c4ae27db02",
+  "active": "7cebd968e7e73aab",
   "lastOpenFiles": [
+    "Continent 3/Continent 3.md",
+    "Continent 3/POI/The Eye.md",
+    "Directory/City Names.md",
+    "Directory/Mortals.md",
+    "Continent 3/Characters/Rigil Acrux.md",
+    "Continent 3/Characters/Rigil Acrux 1.md",
+    "README.md",
     "Schedule.md",
     "Misc Notes/D&D Sessions/Session 1.md",
     "Misc Notes/Micah.md",
     "Misc Notes/D&D Sessions",
     "Misc Notes",
-    "Continent 3/Continent 3.md",
     "World/Geography.md",
     "World/Ideas.md",
-    "README.md",
     "Misc. Notes/Hearts of the Clock.md",
     "Misc. Notes/The Clock.md",
     "Misc. Notes/Magic.md",
@@ -213,11 +222,6 @@
     "gitignore",
     "World/Continents/Continent 1.md",
     "HTTPS.md",
-    "Continent 3/Characters/Raenor Family/Mr. E.md",
-    "Misc. Notes/Seastone.md",
-    "Misc. Notes/Shadowsteel.md",
-    "Misc. Notes/Crown of Domination.md",
-    "Other Random Shit/enterprise.md",
     "Other Random Shit",
     "Untitled.canvas",
     "Continent 1/Characters/Gods 1",
