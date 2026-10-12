@@ -11,13 +11,32 @@
             "id": "85d8d4a85ada5731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kyra Raenor"
+            }
+          },
+          {
+            "id": "4826668045a9815d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common App. Essay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Common App. Essay"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +205,12 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "4826668045a9815d",
   "lastOpenFiles": [
+    "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
+    "Common App. Essay.md",
+    "README.md",
+    "Other Random Shit/Schedule.md",
     "Misc. Notes/Seastone.md",
     "Research/Foaliation (Research).md",
     "Research/Volcanic Hotspot (Research).md",
@@ -198,7 +221,6 @@
     "Research/Papermaking (Research).md",
     "Research/Lava (Research).md",
     "Research/Diapir (Research).md",
-    "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
     "Continent 3/Characters/Raenor Family/Molly Raenor.md",
     "Continent 3/Cities/Capital.md",
     "Continent 3/Cities/Capital 1.md",
@@ -211,9 +233,6 @@
     "Directory/City Names.md",
     "Directory/Mortals.md",
     "Continent 3/Characters/Rigil Acrux.md",
-    "Continent 3/Characters/Rigil Acrux 1.md",
-    "README.md",
-    "Schedule.md",
     "Misc Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
