@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7d749f53ede3d1",
+        "id": "8e4444c65ca298c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3082c4ae27db02",
+            "id": "2af8dc4bd735568c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continent 3/Cities/Capital.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Capital"
+              "title": "New tab"
             }
           }
         ]
@@ -190,10 +186,12 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "5c3082c4ae27db02",
+  "active": "2af8dc4bd735568c",
   "lastOpenFiles": [
-    "Continent 3/Cities/Capital 1.md",
+    "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
+    "Continent 3/Characters/Raenor Family/Molly Raenor.md",
     "Continent 3/Cities/Capital.md",
+    "Continent 3/Cities/Capital 1.md",
     "Continent 3/POI/Brimstone Peak.md",
     "Continent 3/Continent 3.md",
     "Continent 2/Continent 2.md",
@@ -216,11 +214,9 @@
     "Misc. Notes/The Clock.md",
     "Misc. Notes/Magic.md",
     "Misc. Notes/Elemental Weapons.md",
-    "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
     "World/Background.md",
     "Continent 3/Cities/Mimicsville.md",
-    "Other Random Shit/Electrical.md",
     "gitignore",
     "Other Random Shit",
     "Untitled.canvas",
