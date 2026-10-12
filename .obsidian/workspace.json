@@ -11,10 +11,14 @@
             "id": "2af8dc4bd735568c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Misc. Notes/Seastone.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Seastone"
             }
           }
         ]
@@ -188,6 +192,14 @@
   },
   "active": "2af8dc4bd735568c",
   "lastOpenFiles": [
+    "Research/Volcanic Hotspot (Research).md",
+    "Research/Salt Tectonics (Research).md",
+    "Research/Saline Water (Research).md",
+    "Research/River Bifurcation (Research).md",
+    "Research/Pillow Lava (Research).md",
+    "Research/Papermaking (Research).md",
+    "Research/Lava (Research).md",
+    "Research/Diapir (Research).md",
     "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
     "Continent 3/Characters/Raenor Family/Molly Raenor.md",
     "Continent 3/Cities/Capital.md",
@@ -208,15 +220,7 @@
     "Misc Notes/Micah.md",
     "Misc Notes/D&D Sessions",
     "Misc Notes",
-    "World/Geography.md",
-    "World/Ideas.md",
-    "Misc. Notes/Hearts of the Clock.md",
-    "Misc. Notes/The Clock.md",
-    "Misc. Notes/Magic.md",
-    "Misc. Notes/Elemental Weapons.md",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
-    "World/Background.md",
-    "Continent 3/Cities/Mimicsville.md",
     "gitignore",
     "Other Random Shit",
     "Untitled.canvas",
