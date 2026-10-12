@@ -1,3 +1,4 @@
+I would much prefer to purchase everything myself as one order, because one wrong part will prevent everything else from working, and possibly damage other parts
 ### CPU:
 AMD Ryzen 7 9800X3D 4.7 GHz 8-Core Processor 
 ### CPU Cooler: 
