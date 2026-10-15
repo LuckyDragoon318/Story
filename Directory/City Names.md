@@ -1,22 +1,26 @@
 ---
 tags:
   - Directory
+  - Cities
 aliases:
 cssclasses:
 ---
-[[Summerwood]]
-[[Northridge]]
+	Updated and Alphabetized on 10/15/26 @ 09:20
+[[Aethermoor]] 
+[[Baulder's Gate]]
+[[Brimstone Peak]]
+[[Briland]]
+[[Capital]]
 [[Dragons Fall]]
 [[Marauders Haven]]
-[[Thieves Rest]]
-[[Brimstone Peak]]
-[[Tribute Falls]]
+[[Mimicsville]]
+[[Neverwinter]]
+[[Northridge]]
 [[Portwall]]
 [[Riverwood]]
 [[Screeland]]
-[[Briland]]
-[[The Brinelands]] 
-[[Aethermoor]] 
-[[Neverwinter]]
+[[Summerwood]]
+[[Thieves Rest]]
+[[Tribute Falls]]
 [[Waterdeep]]
-[[Baulder's Gate]]
+ 
