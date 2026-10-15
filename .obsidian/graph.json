@@ -6,7 +6,57 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Cities  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Object  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Geography  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Magic  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Research  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 3,
@@ -18,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6817895338173634,
-  "close": true
+  "close": false
 }
