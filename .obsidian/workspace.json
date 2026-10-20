@@ -11,10 +11,14 @@
             "id": "c61fe8f1a62a2e69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mods that contain AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mods that contain AI"
             }
           }
         ]
@@ -188,6 +192,7 @@
   },
   "active": "c61fe8f1a62a2e69",
   "lastOpenFiles": [
+    "Mods that contain AI.md",
     "Directory/Research.md",
     "Research/Foaliation (Research).md",
     "Directory/Materials.md",
@@ -213,7 +218,6 @@
     "Misc. Notes/Skysteel.md",
     "Research/Volcanic Hotspot (Research).md",
     "Research/Salt Tectonics (Research).md",
-    "Research/Saline Water (Research).md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
