@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e73260b9c2277fec",
+        "id": "b8ff7067d483a408",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac5e5d2715aa113",
+            "id": "164496ceb710608e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,10 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "164496ceb710608e",
   "lastOpenFiles": [
+    "East MB Seniors.md",
+    "Other Random Shit/Common App. Essay.md",
     "Mods that contain AI.md",
     "Directory/Research.md",
     "Research/Foaliation (Research).md",
@@ -195,7 +197,6 @@
     "Continent 3/Continent 3.md",
     "Misc. Notes/Shadowsteel.md",
     "Misc. Notes/Seastone.md",
-    "Other Random Shit/Common App. Essay.md",
     "Other Random Shit/enterprise.md",
     "Other Random Shit/Schedule.md",
     "Other Random Shit/Scroll through the weapons.md",
@@ -213,7 +214,6 @@
     "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
     "Misc. Notes/Skysteel.md",
     "Research/Volcanic Hotspot (Research).md",
-    "Research/Salt Tectonics (Research).md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
