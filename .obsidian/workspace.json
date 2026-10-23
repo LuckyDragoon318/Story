@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ff7067d483a408",
+        "id": "f1d2ed3047e78637",
         "type": "tabs",
         "children": [
           {
-            "id": "164496ceb710608e",
+            "id": "9c69589003b731fc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,10 +186,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "164496ceb710608e",
+  "active": "9c69589003b731fc",
   "lastOpenFiles": [
-    "East MB Seniors.md",
+    "Other Random Shit/enterprise.md",
     "Other Random Shit/Common App. Essay.md",
+    "East MB Seniors.md",
     "Mods that contain AI.md",
     "Directory/Research.md",
     "Research/Foaliation (Research).md",
@@ -197,7 +198,6 @@
     "Continent 3/Continent 3.md",
     "Misc. Notes/Shadowsteel.md",
     "Misc. Notes/Seastone.md",
-    "Other Random Shit/enterprise.md",
     "Other Random Shit/Schedule.md",
     "Other Random Shit/Scroll through the weapons.md",
     "Other Random Shit/Electrical.md",
