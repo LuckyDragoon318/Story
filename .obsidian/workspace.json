@@ -11,10 +11,14 @@
             "id": "9c69589003b731fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Misc. Notes/Shadowsteel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shadowsteel"
             }
           }
         ]
@@ -188,6 +192,8 @@
   },
   "active": "9c69589003b731fc",
   "lastOpenFiles": [
+    "Misc. Notes/Skysteel.md",
+    "Species/Elves.md",
     "Other Random Shit/enterprise.md",
     "Other Random Shit/Common App. Essay.md",
     "East MB Seniors.md",
@@ -212,8 +218,6 @@
     "World/Points of Interest.md",
     "Continent 3/Characters/Gods/Folie.md",
     "Continent 3/Characters/Raenor Family/Kyra Raenor.md",
-    "Misc. Notes/Skysteel.md",
-    "Research/Volcanic Hotspot (Research).md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
