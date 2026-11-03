@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c69589003b731fc",
+            "id": "91944d51b3878651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Twilight Town Mall Images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "5cef648c5ddce2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other Random Shit/Treasure Island.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Treasure Island"
+              "title": "Twilight Town Mall Images"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,9 +190,10 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "91944d51b3878651",
   "lastOpenFiles": [
     "README.md",
+    "Twilight Town Mall Images.md",
     "Other Random Shit/Treasure Island.md",
     "Other Random Shit/enterprise.md",
     "Continent 3/Characters/Raenor Family/Emanuel Raenor.md",
@@ -232,7 +218,6 @@
     "Continent 3/Cities/Capital.md",
     "Continent 3/Cities/Briland.md",
     "Continent 3/Cities/Baulder's Gate.md",
-    "Continent 3/Characters/Gods/The Unnamed God.md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
