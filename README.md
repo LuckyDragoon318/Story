@@ -22,4 +22,7 @@ When open in Obsidian this will act as a top Directory to other locations
 2. Reread the messy files
 	lots of repeated or contradictory information
 		Especially Kyra, she has backstories in 3 different locations, and 3 or 4 different backstories
-3. 
+
+
+
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Random Shit/enterprise.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "enterprise"
+              "title": "README"
             }
           }
         ]
@@ -192,12 +192,13 @@
   },
   "active": "9c69589003b731fc",
   "lastOpenFiles": [
+    "Other Random Shit/enterprise.md",
+    "README.md",
     "Continent 3/Characters/Raenor Family/Emanuel Raenor.md",
     "Continent 3/Characters/Raenor Family/Jacob Raenor.md",
     "Misc. Notes/Shadowsteel.md",
     "Misc. Notes/Skysteel.md",
     "Species/Elves.md",
-    "Other Random Shit/enterprise.md",
     "Other Random Shit/Common App. Essay.md",
     "East MB Seniors.md",
     "Mods that contain AI.md",
@@ -215,7 +216,6 @@
     "Continent 3/Cities/Capital.md",
     "Continent 3/Cities/Briland.md",
     "Continent 3/Cities/Baulder's Gate.md",
-    "README.md",
     "Continent 3/Characters/Gods/The Unnamed God.md",
     "World/Points of Interest.md",
     "Misc. Notes/D&D Sessions",
