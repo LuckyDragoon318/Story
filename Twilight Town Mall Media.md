@@ -14,6 +14,8 @@ Yoyo Poster - https://www.falloutboy.com/sites/g/files/g2000024396/files/2026-11
 Twilight Dream Center Poster - https://www.falloutboy.com/sites/g/files/g2000024391/files/2026-11/TDC_art_uh944teo.webp
 Dream Guard - https://www.falloutboy.com/sites/g/files/g2000024391/files/2026-11/dreamguard_art_rgptjn1i.webp
 Aces Hifi - https://d2cstorage-a.akamaihd.net/atl/falloutboy/aceshifi.webp
+Box Office is closed - https://d2cstorage-a.akamaihd.net/atl/falloutboy/knockitoutofthepark.jpg
+
 **Videos** 
 Pete - https://d2cstorage-a.akamaihd.net/atl/falloutboy/PeteV2.mp4
 Patrick - https://d2cstorage-a.akamaihd.net/atl/falloutboy/PatrickBW.mp4
