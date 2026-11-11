@@ -45,3 +45,9 @@ Note - https://www.falloutboy.com/sites/g/files/g2000024396/files/2026-11/note_j
 Boxing Gloves - https://www.falloutboy.com/sites/g/files/g2000024396/files/2026-11/gloves_qkgqljue.webp
 Antlers - https://www.falloutboy.com/sites/g/files/g2000024396/files/2026-11/antlerscp_jmn10ls4.webp
 Madame Celeste Card - https://www.falloutboy.com/sites/g/files/g2000024396/files/2026-11/card_g6vmlzew.webp
+
+Tour
+NA Tour Announcement - https://www.falloutboy.com/sites/g/files/g2000024436/files/2026-11/fob_na_r4mqevh3.jpg
+EU UK Tour Announcement - https://www.falloutboy.com/sites/g/files/g2000024436/files/2026-11/fob_eu_uk_lgpefrci.jpg
+Stars Logo - https://www.falloutboy.com/sites/g/files/g2000024436/files/2026-11/logo_i2572zb9.png
+
