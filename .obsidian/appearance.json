@@ -1,5 +1,6 @@
 {
   "cssTheme": "GitHub Theme",
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
