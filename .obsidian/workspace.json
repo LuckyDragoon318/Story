@@ -48,9 +48,65 @@
               "icon": "lucide-file",
               "title": "Twilight Town Mall Media"
             }
+          },
+          {
+            "id": "73be375e23f08e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Characters/Benze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benze"
+            }
+          },
+          {
+            "id": "fc0a8ce44bd4d343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Characters/Stupid Character Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stupid Character Ideas"
+            }
+          },
+          {
+            "id": "e34377868562e368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Characters/Lance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lance"
+            }
+          },
+          {
+            "id": "ad79f587748f0f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continent 3/Characters/Lance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lance"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -219,10 +275,14 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "7cebd968e7e73aab",
+  "active": "ad79f587748f0f97",
   "lastOpenFiles": [
-    "Other Random Shit/Network Switch.md",
+    "Continent 3/Characters/Stupid Character Ideas.md",
+    "Magic Paintings.md",
+    "Continent 3/Characters/Lance.md",
+    "Continent 3/Characters/Benze.md",
     "Other Random Shit/Twilight Town Mall Media.md",
+    "Other Random Shit/Network Switch.md",
     "Gryffindor 60343 Presentation.md",
     "Templates/HTML Embed.md",
     "README.md",
@@ -243,10 +303,6 @@
     "Misc. Notes/Seastone.md",
     "Other Random Shit/Schedule.md",
     "Other Random Shit/Scroll through the weapons.md",
-    "Other Random Shit/Electrical.md",
-    "Misc. Notes/Micah.md",
-    "Directory/City Names.md",
-    "Directory/Major Land Masses.md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
