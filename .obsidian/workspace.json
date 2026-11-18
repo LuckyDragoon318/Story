@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "44649da7489b96fc",
+        "id": "1c96d564d14005d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f4bf945293e78e86",
+            "id": "afcd5737b01f1c9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continent 3/Characters/Lance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lance"
-            }
-          },
-          {
-            "id": "b27e6de488bd4aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LSSU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSSU"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +186,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "b27e6de488bd4aa8",
+  "active": "afcd5737b01f1c9c",
   "lastOpenFiles": [
-    "Continent 3/Characters/Lance.md",
     "LSSU.md",
+    "Untitled.md",
+    "Continent 3/Characters/Lance.md",
     "Continent 3/Characters/Stupid Character Ideas.md",
     "Magic Paintings.md",
     "Continent 3/Characters/Benze.md",
@@ -232,7 +214,6 @@
     "Directory/Materials.md",
     "Continent 3/Continent 3.md",
     "Misc. Notes/Seastone.md",
-    "Other Random Shit/Schedule.md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
