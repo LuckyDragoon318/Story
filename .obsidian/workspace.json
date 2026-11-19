@@ -11,10 +11,14 @@
             "id": "afcd5737b01f1c9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LSSU.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LSSU"
             }
           }
         ]
@@ -188,8 +192,8 @@
   },
   "active": "afcd5737b01f1c9c",
   "lastOpenFiles": [
+    "PC List.md",
     "LSSU.md",
-    "Untitled.md",
     "Continent 3/Characters/Lance.md",
     "Continent 3/Characters/Stupid Character Ideas.md",
     "Magic Paintings.md",
