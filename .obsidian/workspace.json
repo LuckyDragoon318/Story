@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c96d564d14005d0",
+        "id": "e7519b5d958b5728",
         "type": "tabs",
         "children": [
           {
-            "id": "afcd5737b01f1c9c",
+            "id": "bf41312393f96d75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LSSU.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LSSU"
+              "title": "New tab"
             }
           }
         ]
@@ -190,10 +186,11 @@
       "git-vault-sync:Git Vault Sync: Review changes & sync": false
     }
   },
-  "active": "afcd5737b01f1c9c",
+  "active": "bf41312393f96d75",
   "lastOpenFiles": [
-    "PC List.md",
+    "Juptier.md",
     "LSSU.md",
+    "PC List.md",
     "Continent 3/Characters/Lance.md",
     "Continent 3/Characters/Stupid Character Ideas.md",
     "Magic Paintings.md",
@@ -217,7 +214,6 @@
     "Research/Foaliation (Research).md",
     "Directory/Materials.md",
     "Continent 3/Continent 3.md",
-    "Misc. Notes/Seastone.md",
     "Misc. Notes/D&D Sessions",
     "Misc Notes",
     "Continent 3/Characters/Raenor Family/Raenor Family Tree.canvas",
